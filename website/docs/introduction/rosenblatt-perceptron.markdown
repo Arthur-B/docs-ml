@@ -3,9 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Introduction
+title: "Rosenblatt's perceptron"
 nav_order: 1
-has_children: True
+parent: Introduction
 ---
 
-Introduction model page
+# Rosenblatt's perceptron
+
+## McCulloch-Pitts neuron model
+
+## Rosenblatt's perceptron
