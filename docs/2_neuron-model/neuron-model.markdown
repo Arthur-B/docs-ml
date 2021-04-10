@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "Multi-layer perceptron"
-nav_order: 2
-has_children: True
+title: "Neuron model"
+nav_order: 0
+parent: "One neuron"
 ---
 
-Introduction model page
+Neuron model page

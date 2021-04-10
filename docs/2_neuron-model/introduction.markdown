@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "PyTorch"
-nav_order: 1
-parent: Configuration
+title: "One neuron"
+nav_order: 3
+has_children: True
 ---
 
-PyTorch
+Introduction model page

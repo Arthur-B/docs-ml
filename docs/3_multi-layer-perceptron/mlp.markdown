@@ -3,13 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Anaconda
-nav_order: 0
-parent: Configuration
+title: "Multi-layer perceptron"
+nav_order: 4
+has_children: True
 ---
 
-# Anaconda
-
-## Installing Anaconda
-
-## Spyder tips and tricks
+Introduction model page
