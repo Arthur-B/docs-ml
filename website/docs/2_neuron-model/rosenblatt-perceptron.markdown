@@ -5,7 +5,7 @@
 layout: default
 title: "Rosenblatt's perceptron"
 nav_order: 1
-parent: Introduction
+parent: "Artificial neuron"
 ---
 
 # Rosenblatt's perceptron
