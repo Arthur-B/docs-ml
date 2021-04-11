@@ -3,13 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "Rosenblatt's perceptron"
-nav_order: 1
+title: "Rule-based learning"
+nav_order: 2
 parent: "Artificial neuron"
 ---
 
 # Rosenblatt's perceptron
-
-## McCulloch-Pitts neuron model
-
-## Rosenblatt's perceptron
