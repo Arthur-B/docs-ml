@@ -3,9 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "Gradient descent (manual)"
-nav_order: 2
-parent: Introduction
+title: "Gradient descent"
+nav_order: 3
+parent: "Artificial neuron"
 ---
 
-Neuron model page
+# Gradient descent
+
+# Manual implementation
+
+# PyTorch implementation

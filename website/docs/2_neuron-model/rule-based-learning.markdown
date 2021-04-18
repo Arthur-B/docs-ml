@@ -9,3 +9,8 @@ parent: "Artificial neuron"
 ---
 
 # Rosenblatt's perceptron
+
+# Implementation
+
+<img src="images/rule-based-learning.gif" alt="rule-based-learning"
+  title="Rule-based learning" width="640" height="480" />
