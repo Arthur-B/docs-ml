@@ -1,4 +1,4 @@
-# Neural netoworks crash course
+# PyTorch crash course
 
 ## Concept
 
@@ -13,13 +13,27 @@ It is NOT an in-depth theoritical course. There are other great online ressource
 
 The goal is to start small and slowly introduce new features / more complex code as we go.
 
+| Chapter | Subject | Content |
+|---|---|---|
+| (1) Regression | (1-1) Linear regression | Manual gradient descent,<br>Implementation in PyTorch,<br>Bonus: plotting training loss |
+| | (1-2) General regression | Problem with (1-1) architecture,<br>General regression model,<br>Bonus: introduction to hyperparameter optimization |
+| (2) Classification | (2-1) Rule based learning |McCulloch Pitt's neuron model,<br>Rosenblatt's perceptron |
+| | (2-2) PyTorch implementation | Linear classification,<br>General classification model |
+| | (2-3) Iris dataset | |
+| (3) Improving your code | (3-1) Training on GPU | |
+| (4) CNN | | |
+| (5) Advanced topics | (5-1) GAN | |
 
 ## Acknowledgment
 
-I would like to thank @myungjoon who encouraged me to swith from Tensor Flow to PyTorch and helped design the content of the course, members of @apmd-lab who experienced an early version of the course tailored to our research in nanophotonics and who gave important feedback, and Professor Jonghwa Shin for his support. 
+I would like to thank @myungjoon who encouraged me to swith from Tensor Flow to PyTorch and helped design the content of the course, members of the @apmd-lab who experienced an early version of the course tailored to our research in nanophotonics and who gave important feedback, and Professor Jonghwa Shin for his support. 
 
 ## To-do
 
 * Clean up the rest of the notebooks
 * Build a way to display the notebooks online (website?)
 * New notebook about GAN?
+* Bonus subjects:
+    * Split train / test + determine accuracy
+    * dealing with dataframes (pandas)
+    * Plot in seaborn
